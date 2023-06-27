@@ -1,2 +1,2 @@
 # wordcount
-Will count word on text based file like .txt 
+Will count word on text based file (e.g .txt).
